@@ -14,7 +14,8 @@ Copy & paste the following onto the User Data, when you launch an EC2 instance:
 
     #!/bin/bash
     yum update -y
-    yum install -y httpd
+    yum install git -y
+    yum install httpd -y
     systemctl start httpd
     systemctl enable httpd
     git clone https://github.com/CloudemyTV/simple-web-kitty-piano.git /var/www/html/
