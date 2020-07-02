@@ -9,7 +9,7 @@ For grandmasters like you, this is your new world-class instrument.
 You play [Super Kitty Piano at superkittypiano.com](http://superkittypianocom)
 
 
-![Super Kitty](/images/super-kitty.gif)
+![Super Kitty](/super-kitty.gif)
 
 > Super Kitty Piano - Copyright 2020 Cloudemy.tv
 
