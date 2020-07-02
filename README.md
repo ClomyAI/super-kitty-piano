@@ -25,7 +25,7 @@ The Kitty Piano works on most recent browsers (not IE). We recommend you to play
 
 
 
-## Deployment Option 1: Use the following command to deploy the website, if you're using AWS EC2 user data.
+## Option 1: Deploy to AWS EC2 using user data.
 
 Copy & paste the following onto the User Data, when you launch an EC2 instance:
 
