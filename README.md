@@ -6,7 +6,7 @@ We often demo this website as class material in Cloudemy online classes, and occ
 
 For grandmasters like you, this is your new world-class instrument. 
 
-You play [Super Kitty Piano at superkittypiano.com](http://superkittypianocom)
+You can play [Super Kitty Piano](http://superkittypiano.com)  at superkittypiano.com
 
 
 ![Super Kitty](/super-kitty.gif)
