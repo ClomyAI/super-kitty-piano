@@ -11,7 +11,7 @@ You can play [Super Kitty Piano](http://superkittypiano.com)  at superkittypiano
 
 ![Super Kitty](/super-kitty.gif)
 
-> Super Kitty Piano - Copyright 2020 Cloudemy.tv
+#### Super Kitty Piano - Copyright 2020 Cloudemy.tv
 
 
 
