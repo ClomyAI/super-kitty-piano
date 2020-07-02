@@ -14,12 +14,19 @@ You can play [Super Kitty Piano](http://superkittypiano.com)  at superkittypiano
 > Super Kitty Piano - Copyright 2020 Cloudemy.tv
 
 
+
 ### Note:
+
 The sound of kitty piano is generated using Web Audio API.
+
 Go to: https://developer.mozilla.org/en-US/docs/Web/API/Web_Audio_API for more details.
+
 The Kitty Piano works on most recent browsers (not IE). We recommend you to play it on Firefox or Chrome.
 
+
+
 ## Deployment Option 1: Use the following command to deploy the website, if you're using AWS EC2 user data.
+
 Copy & paste the following onto the User Data, when you launch an EC2 instance:
 
     #!/bin/bash
