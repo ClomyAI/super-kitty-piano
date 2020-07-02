@@ -28,7 +28,7 @@ The Kitty Piano works on most recent browsers (not IE). We recommend you to play
 
 ## Option 1: Deploy to AWS EC2 using user data.
 
-Copy & paste the Shell Script below onto the EC2 User Data, when you launch an EC2 instance, EC2 will automatically run commands during launch:
+Copy & paste the Shell Script below onto the EC2 User Data, when you launch an EC2 instance. EC2 will automatically run commands and deploy the Super Kitty Piano website during launch:
 
     #!/bin/bash
     yum update -y
