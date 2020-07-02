@@ -1,8 +1,18 @@
 # Simple Kitty Piano Website
 
 This is a simple piano web app made by our super kitty at Clooudemy. 
+
 We often demo this website as class material in Cloudemy online classes, and occasionally play it in the parties.
+
 For grandmasters like you, this is your new world-class instrument. 
+
+You play [Super Kitty Piano at superkittypiano.com](http://superkittypianocom)
+
+
+![Super Kitty](/images/super-kitty.gif)
+
+> Super Kitty Piano - Copyright 2020 Cloudemy.tv
+
 
 ### Note:
 The sound of kitty piano is generated using Web Audio API.
@@ -18,5 +28,5 @@ Copy & paste the following onto the User Data, when you launch an EC2 instance:
     yum install httpd -y
     systemctl start httpd
     systemctl enable httpd
-    git clone https://github.com/CloudemyTV/simple-web-kitty-piano.git /var/www/html/
+    git clone https://github.com/CloudemyTV/super-kitty-piano.git /var/www/html/
     
