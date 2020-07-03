@@ -1,6 +1,6 @@
-# Simple Kitty Piano Website
+# Super Kitty Piano
 
-This is a simple piano web app made by our super kitty at Clooudemy. 
+This is the Super Kitty Piano website created by our cat at Clooudemy. 
 
 We often demo this website as class material in Cloudemy online classes, and occasionally play it in the parties.
 
@@ -22,7 +22,7 @@ The sound of kitty piano is generated using Web Audio API.
 
 Go to: https://developer.mozilla.org/en-US/docs/Web/API/Web_Audio_API for more details.
 
-The Kitty Piano works on most recent browsers (not IE). We recommend you to play it on Firefox or Chrome.
+The Super Kitty Piano works on most recent browsers (not IE). We recommend you to play it on Firefox or Chrome.
 
 
 
